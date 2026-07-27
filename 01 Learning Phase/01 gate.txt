@@ -2,9 +2,9 @@
 
 Besic: 
 
-NOT
-AND
-OR
+BUFFER         --     NOT
+AND          --         NAND
+OR           --           NOR
 
 Universal Gate:
 
