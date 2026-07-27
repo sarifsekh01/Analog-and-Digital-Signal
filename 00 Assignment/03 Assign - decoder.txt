@@ -1,0 +1,4 @@
+Problem Statement: 03
+Experiment Name: Design a 2x4 Decoder using besic Gate And Varify Its Output
+
+key point--

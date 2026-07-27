@@ -1,0 +1,9 @@
+//Decimal: human friendly number
+---->
+base -10 -- "10" means 10 symbol-(0-9) --> 0,1,2,3,4,5,6,7,8,9
+importent is --> "place value" --> means 333 this 3rd value is 3*10^2=300 and 2nd 3s value is 3*10^1=30 and 1st 3 means 3*10^0=3 ;
+
+
+//Binary:  Computer friendly number " here computer-->(cpu/gpu/memory/hardware/software) "
+---->
+base - 2 -- "2" means 2 symbol-(0,1) --> 0,1

@@ -1,0 +1,8 @@
+An encoder is a digital circuit that converts one active input line into a binary code.
+For example, an 8-to-3 encoder has 8 input lines and 3 output lines. If input 5 is active, the output is the binary representation of 5:
+Input 0 → 000
+Input 1 → 001
+Input 2 → 010
+…
+Input 7 → 111
+Encoders are used in keyboards, sensors, and digital systems to reduce many input signals into a smaller binary output. A priority encoder is a type that handles multiple active inputs by choosing the highest-priority one.

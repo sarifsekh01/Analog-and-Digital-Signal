@@ -1,0 +1,11 @@
+Problem Statement: 02
+Experiment Name: Design a full Substractor Using Besic gate and varify its Output
+
+key point--
+
+
+//Description
+//Truth Table
+//Circuit Diagram
+//Output (unsing LED(ON/OFF))
+//Conclusion

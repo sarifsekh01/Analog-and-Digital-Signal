@@ -1,0 +1,13 @@
+Problem Statement 01
+Experiment Name: Design a full Adder using besic Gate And Varify Its Output
+
+key point--
+
+//Description
+//Truth Table
+//circuit Diagram
+//Output(using LED(On/OFF))
+//Conclusion
+
+Ans: --> Use chatGPT (or any LLM Tools)
+

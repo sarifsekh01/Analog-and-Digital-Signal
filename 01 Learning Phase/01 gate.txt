@@ -1,0 +1,21 @@
+//Besic Gate
+
+Besic: 
+
+NOT
+AND
+OR
+
+Universal Gate:
+
+NAND
+NOR
+
+Exclusive Gate:
+
+X-OR
+X-NOR
+
+
+
+
